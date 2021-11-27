@@ -1,6 +1,5 @@
 package br.senai.sc;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class ex03 {
